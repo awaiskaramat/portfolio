@@ -165,7 +165,7 @@ export default function Home() {
             </div>
             <div className="md:w-1/2 flex justify-center">
               <div className="relative">
-                <img src="/awais.JPEG" alt="Professional portrait of Awais Karamat, a software engineer with short beard wearing glasses and casual professional attire" className="rounded-2xl shadow-xl w-full max-w-md" />
+                <img src="/awais.jpeg" alt="Professional portrait of Awais Karamat, a software engineer with short beard wearing glasses and casual professional attire" className="rounded-2xl shadow-xl w-full max-w-md" />
                 <div className="absolute -bottom-5 -right-5 bg-white p-2 rounded-lg shadow-md">
                   <span className="code-font text-sm font-medium">📍 Remote / On-site</span>
                 </div>
