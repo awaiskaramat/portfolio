@@ -53,9 +53,9 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 
 ## 📧 Contact
 
-Ali Haider - [awaiskaramat90@gmail.com](awaiskaramat90@gmail.com)
+Awais Karamat - [awaiskaramat90@gmail.com](awaiskaramat90@gmail.com)
 
-Project Link: [https://github.com/AliHaider111/Haider-portfolio](https://github.com/AliHaider111/Haider-portfolio)
+Project Link: [https://github.com/awaiskaramat/portfolio](https://github.com/awaiskaramat/portfolio)
 
 ---
 
